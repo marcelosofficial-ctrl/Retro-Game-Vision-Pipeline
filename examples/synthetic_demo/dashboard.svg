@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Synthetic retro game resale decision dashboard">
+  <rect width="960" height="540" fill="#f4f4f5"/>
+  <text x="60" y="58" font-family="system-ui,sans-serif" font-size="30" font-weight="700" fill="#171717">Retro Game Resale Pipeline</text>
+  <text x="60" y="88" font-family="system-ui,sans-serif" font-size="16" fill="#666">Synthetic decision surface · fictional data</text>
+  <rect x="60" y="120" width="840" height="190" rx="18" fill="white" stroke="#ddd"/>
+  <rect x="90" y="150" width="70" height="32" rx="16" fill="#dcfce7"/>
+  <text x="108" y="172" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#166534">BUY</text>
+  <text x="90" y="220" font-family="system-ui,sans-serif" font-size="25" font-weight="700" fill="#171717">Neon Racer 2</text>
+  <text x="90" y="246" font-family="system-ui,sans-serif" font-size="15" fill="#666">JP Saturn · standard edition · complete</text>
+  <rect x="90" y="266" width="230" height="68" rx="10" fill="#fafafa"/><rect x="365" y="266" width="230" height="68" rx="10" fill="#fafafa"/><rect x="640" y="266" width="230" height="68" rx="10" fill="#fafafa"/>
+  <text x="108" y="290" font-family="system-ui,sans-serif" font-size="13" fill="#666">Buy price</text><text x="108" y="317" font-family="system-ui,sans-serif" font-size="22" font-weight="700">¥1,200</text>
+  <text x="383" y="290" font-family="system-ui,sans-serif" font-size="13" fill="#666">Expected sale</text><text x="383" y="317" font-family="system-ui,sans-serif" font-size="22" font-weight="700">¥3,400</text>
+  <text x="658" y="290" font-family="system-ui,sans-serif" font-size="13" fill="#666">Expected profit</text><text x="658" y="317" font-family="system-ui,sans-serif" font-size="22" font-weight="700">¥1,390</text>
+  <rect x="60" y="340" width="840" height="150" rx="18" fill="white" stroke="#ddd"/>
+  <text x="90" y="378" font-family="system-ui,sans-serif" font-size="20" font-weight="700">Compatibility gate</text>
+  <text x="90" y="414" font-family="system-ui,sans-serif" font-size="15">JP Saturn · standard · CIB</text><text x="800" y="414" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#166534">USED</text>
+  <text x="90" y="446" font-family="system-ui,sans-serif" font-size="15">PlayStation · standard · CIB</text><text x="785" y="446" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#991b1b">REJECT</text>
+  <text x="90" y="478" font-family="system-ui,sans-serif" font-size="15">JP Saturn · limited · CIB</text><text x="785" y="478" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#991b1b">REJECT</text>
+</svg>

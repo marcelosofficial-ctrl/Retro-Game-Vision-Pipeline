@@ -1,0 +1,8 @@
+{
+  "decision": "BUY",
+  "expected_sale_jpy": 3400,
+  "expected_profit_jpy": 1390,
+  "roi_percent": 115.8,
+  "compatible_sold_count": 3,
+  "note": "Illustrative public-demo output. Production policy is not included."
+}

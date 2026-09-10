@@ -1,0 +1,12 @@
+{
+  "physical_observation": {
+    "observation_id": "OBS-DEMO-001",
+    "title": "Neon Racer 2",
+    "platform": "SEGA_SATURN",
+    "region": "JP",
+    "edition": "STANDARD",
+    "completeness": "CIB",
+    "price_jpy": 1200
+  },
+  "note": "All names and prices in this fixture are synthetic."
+}

@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cookie
+cookies*.txt
+
+# Production/private project artifacts
+private/
+production/
+backups/
+evidence/
+market/
+imports/
+checkpoints/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.zip
+*.tar
+*.tar.gz
+*.tar.xz
+*.jsonl
+
+# Raw photos and media are private by default
+*.jpg
+*.jpeg
+*.heic
+*.webp
+*.mov
+*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
